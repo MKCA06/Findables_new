@@ -1,4 +1,4 @@
-# Project Name: College Lost and Found
+# Project Name: College Lost and Found (Findables.co)
 
 ## Project Inspiration
 Colleges are often places where students frequently misplace their belongings, such as earphones, in various locations like desks, classrooms, or common areas. To address this common issue faced by college students, this project aims to create a user-friendly platform that allows users to report their lost or found items. By providing a centralized system, it becomes easier for students to recover their lost belongings and make sure they are returned to the rightful owners.
@@ -27,8 +27,6 @@ To run the project locally on your machine, follow these steps:
 ## Contribution
 If you find any bugs or want to contribute to the project, feel free to open an issue or submit a pull request. We welcome contributions from the community to make this project even better!
 
-## License
-This project is licensed under the MIT License. [Link to the License](link-to-your-license-file)
 
 ## Contact
-If you have any questions or need further assistance, you can reach out to the project maintainers at [email@example.com](mailto:email@example.com).
+If you have any questions or need further assistance, you can reach out to the project maintainers at [manikchadha0609@gmail.com](mailto:manikchadha0609@gmail.com).
