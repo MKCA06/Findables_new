@@ -1,13 +1,37 @@
-﻿# Findables_new
+Project Name: Findables.co
+
 Project Inspiration
-Colleges are the place where we come to home mentioning about losing our new earphone which might have kept in a desk but not sure if it's still there. This problem feels so relatable to most of the college students. A problem will still remain the same until someone builds a solution to it.
+Colleges are often places where students frequently misplace their belongings, such as earphones, in various locations like desks, classrooms, or common areas. To address this common issue faced by college students, this project aims to create a user-friendly platform that allows users to report their lost or found items. By providing a centralized system, it becomes easier for students to recover their lost belongings and make sure they are returned to the rightful owners.
 
 Features
-Get notified when a lost/found item is listed.
-"Response Validation" technique is used to prevent false claim and preventing misuse of information.
-Keep track of your listed items/response.
-Simple and Easy to use.
-Technolgies Used
-React JS (Frontend)
-Node JS, Express JS (Backend)
-MongoDB (Database)
+Real-time Notifications: Users will receive instant notifications when someone lists a lost or found item that matches their description.
+
+Response Validation: To ensure the accuracy and prevent false claims or misuse of information, a "Response Validation" technique is implemented. This feature adds an extra layer of security and reliability to the system.
+
+Item and Response Tracking: Users can easily keep track of the items they have listed as lost or found and monitor responses from other users.
+
+User-Friendly Interface: The platform provides a simple and intuitive user interface, making it easy for anyone to use and navigate without any hassle.
+
+Technologies Used
+Frontend: React JS
+Backend: Node JS, Express JS
+Database: MongoDB
+Getting Started
+To run the project locally on your machine, follow these steps:
+
+Clone this repository to your local machine.
+Navigate to the project's frontend directory and run npm install to install the required dependencies.
+Similarly, navigate to the backend directory and install the required dependencies using npm install.
+Configure the MongoDB connection settings in the backend to ensure proper database connectivity.
+Run the frontend and backend servers using npm start in their respective directories.
+Access the application by opening your browser and visiting http://localhost:3000.
+Contribution
+If you find any bugs or want to contribute to the project, feel free to open an issue or submit a pull request. We welcome contributions from the community to make this project even better!
+
+License
+This project is licensed under the MIT License.
+
+Contact
+If you have any questions or need further assistance, you can reach out to the project maintainers at manikchadha0609@gmail.com.
+
+Please make sure to update the contact email and license details with the appropriate information. Also, consider providing a link to your actual license file in the "License" section.
