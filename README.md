@@ -24,6 +24,10 @@ To run the project locally on your machine, follow these steps:
 5. Run the frontend and backend servers using `npm start` in their respective directories.
 6. Access the application by opening your browser and visiting `http://localhost:3000`.
 
+## Project Hosting
+The project is hosted at: [https://findables-frontend.vercel.app/](https://findables-frontend.vercel.app/)
+
+
 ## Contribution
 If you find any bugs or want to contribute to the project, feel free to open an issue or submit a pull request. We welcome contributions from the community to make this project even better!
 
