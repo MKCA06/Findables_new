@@ -27,6 +27,9 @@ To run the project locally on your machine, follow these steps:
 ## Project Hosting
 The project is hosted at: [https://findables-frontend.vercel.app/](https://findables-frontend.vercel.app/)
 
+## Figma Design
+Explore the Figma design for the project [here](https://www.figma.com/proto/gmrXlNN474p5OO9zgZZpiw/Untitled?type=design&node-id=1-4&t=imaAQ5cBIKm0eZKK-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A4&show-proto-sidebar=1&mode=design).
+
 
 ## Contribution
 If you find any bugs or want to contribute to the project, feel free to open an issue or submit a pull request. We welcome contributions from the community to make this project even better!
