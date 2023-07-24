@@ -1,5 +1,5 @@
 # Project Name: College Lost and Found(Findables.co)
-![Alt Text](https://imgur.com/3RQZTzJ)
+![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3JhNmNweW1hdXBxYnZvbndrMHNkbHY4MXFqemJremxlbjA0MzRxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wtHNn5w7DWyvB1Yh88/giphy.gif)
 ## Project Inspiration
 Colleges are often places where students frequently misplace their belongings, such as earphones, in various locations like desks, classrooms, or common areas. To address this common issue faced by college students, this project aims to create a user-friendly platform that allows users to report their lost or found items. By providing a centralized system, it becomes easier for students to recover their lost belongings and make sure they are returned to the rightful owners.
 
