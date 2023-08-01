@@ -31,14 +31,33 @@ Findables.co is built using the MERN (MongoDB, Express.js, React, Node.js) stack
   - JSON Web Tokens (JWT): For secure user authentication and authorization.
 
 ## Getting Started
-To run the project locally on your machine, follow these steps:
+To run the Findables.co project locally on your machine, follow these steps:
 
-1. Clone this repository to your local machine.
-2. Navigate to the project's frontend directory and run `npm install` to install the required dependencies.
-3. Similarly, navigate to the backend directory and install the required dependencies using `npm install`.
-4. Configure the MongoDB connection settings in the backend to ensure proper database connectivity.
-5. Run the frontend and backend servers using `npm start` in their respective directories.
-6. Access the application by opening your browser and visiting `http://localhost:3000`.
+1. Clone the repository from GitHub:
+
+   ```
+   git clone https://github.com/chayan/findables.co.git
+   ```
+
+2. Install the required dependencies for both the front-end and back-end:
+
+   ```
+   cd findables.co/frontend
+   npm install
+   cd ../backend
+   npm install 
+   node server.js
+   ```
+
+3. Set up environment variables:
+   - Create a `.env` file in the `/server` directory and define the following variables:
+     - `MONGODB_URI`: Connection string for your MongoDB database.
+     - `JWT_SECRET`: A secret key used for signing and verifying JSON Web Tokens.
+     - `PORT`: Port number for the server to run (e.g., 5000).
+
+4. Populate the MongoDB database with initial data if needed (e.g., predefined categories, sample findables).
+
+5. Access the application in your web browser at `http://localhost:3000` (assuming the front-end runs on port 3000).
 
 ## Project Hosting
 The project is hosted at: [https://findables-frontend.vercel.app/](https://findables-frontend.vercel.app/)
