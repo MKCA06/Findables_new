@@ -13,9 +13,22 @@ Colleges are often places where students frequently misplace their belongings, s
 - **User-Friendly Interface:** The platform provides a simple and intuitive user interface, making it easy for anyone to use and navigate without any hassle.
 
 ## Technologies Used
-- Frontend: React JS
-- Backend: Node JS, Express JS
-- Database: MongoDB
+Findables.co is built using the MERN (MongoDB, Express.js, React, Node.js) stack, providing a robust and scalable foundation for the application. The technologies used in the project include:
+
+- Front-end:
+  - React: A JavaScript library for building user interfaces.
+  - Redux: For state management in the React application.
+  - HTML5 and CSS3: For creating the layout and styling of the user interface.
+  - Axios: A promise-based HTTP client for handling API requests.
+
+- Back-end:
+  - Node.js: A JavaScript runtime for server-side development.
+  - Express.js: A web application framework for Node.js.
+  - MongoDB: A NoSQL database for storing findables and user information.
+  - Mongoose: An Object Data Modeling (ODM) library for MongoDB and Node.js.
+
+- Authentication:
+  - JSON Web Tokens (JWT): For secure user authentication and authorization.
 
 ## Getting Started
 To run the project locally on your machine, follow these steps:
